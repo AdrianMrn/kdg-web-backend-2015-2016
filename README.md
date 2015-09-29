@@ -110,6 +110,6 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 
 ## Studenten
 
-- Naam
-	- email: e-mailadres
-	- GitHub: github-account
+- Adriaan Marain
+- email: adriaanmarain300@gmail.com
+- GitHub: https://github.com/AdrianMrn
